@@ -50,3 +50,13 @@
 .lightText {
   color: #666;
 }
+
+.App {
+  height: 100vh;
+  width: 100vw;
+}
+
+.map-container {
+  height: 100%;
+  width: 100%;
+}
